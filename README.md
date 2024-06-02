@@ -29,7 +29,7 @@ Melhoria na Pronúncia: Uso de ferramentas e recursos tecnológicos ajuda os lei
 Expansão de Vocabulário: Estratégias de aprendizado e aplicativos recomendados contribuem para um vocabulário mais rico e variado.
 Engajamento Contínuo: Participação em comunidades de aprendizagem e interação com falantes nativos promove um aprendizado contínuo e motivador.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Cristian-Nascimento/lab-natty-or-not/blob/main/Ebook/Ingl%C3%AAs%20Up-Ebook.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
